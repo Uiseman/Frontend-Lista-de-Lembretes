@@ -16,7 +16,7 @@ Dentro da pasta ListaDeLembretesAPI executar o comando **dotnet run**. Caso dese
 
 ### Execução do Frontend
 
-Na primeira execução do frontend, é necessário executar o comando **npm install** no diretório do projeto, para que os pacotes necessários para o funcionamento da aplicação sejam instalados. 
+Na primeira execução do frontend, é necessário executar o comando **npm install** no diretório do projeto(Frontend-Lista-de-Lembretes), para que os pacotes necessários para o funcionamento da aplicação sejam instalados. 
 
 Após a isso, a aplicação será executada via **npm start**.
 
