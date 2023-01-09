@@ -22,10 +22,11 @@ Após a isso, a aplicação será executada via **npm start**.
 
 ## SOBRE A APLICAÇÃO
 
-O frontend tem a capacidade de criar, listar e excluir os lembretes. Essas funcionalidades são disponibilizadas por meio da API REST ListaDeLembretesAPI. Os endpoints disponibilizados, assim como o parâmetros de envio e retorno, podem ser vizualizados por meio do Swagger.
+O frontend tem a capacidade de criar, listar e excluir os lembretes. Essas funcionalidades são disponibilizadas por meio da API REST ListaDeLembretesAPI. Os endpoints disponibilizados, assim como o parâmetros de envio e retorno, podem ser visualizados por meio do Swagger.
 
 ## ARMAZENAMENTO
 
 A aplicação utiliza um banco de dados persistido na memória. Ou seja, ele é apagado toda vez que a API é reiniciada.
+
 
 
